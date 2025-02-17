@@ -1,3 +1,7 @@
+"scripts": {
+  "export": "next export"
+}
+
 {
   "name": "finance_tracker",
   "version": "0.1.0",
